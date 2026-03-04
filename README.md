@@ -1,2 +1,2 @@
-## Blog
+# Blog
 Record my thoughts and reflections
